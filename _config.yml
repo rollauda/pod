@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
+resume_avatar:                  "true"
 resume_name:                    "Podcasts de philosophie"
 resume_title:                   "Enregistrements sonores des classes de M. Auda."
 
