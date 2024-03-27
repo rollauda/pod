@@ -1,13 +1,19 @@
 # Jobs
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
+- company: Essai 1
   position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
+  duration:  Mai, 2023 
   summary: <audio src="/pod/blob/main/_assets/sons/atelier1.mp3" controls loop> Unable 
+
+  # Communications Coordinator
+- company: Essai 2
+  position: Communications Coordinator
+  duration:   Jun, 2023
+  summary: <audio src="/rollauda/pod/_assets/sons/atelier1.mp3" controls loop> Unable 
   
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
+- company: Essai 3
   position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: <audio src="/rollauda/pod/_assets/sons/atelier1.mp3" controls loop> Unable 
+  duration:   May, 2010
+  summary: <audio src="_assets/sons/atelier1.mp3" controls loop> Unable 
