@@ -1,17 +1,14 @@
 # Podcasts
-- degree: Atelier Terminale Primaire 2023
-  uni: Terminale B et CM1-CM2 d'Olivier Piy
-  year: Mai, 20238
-  awards: Chaque année, des élèves de Terminale se réunissent avec des élèves de Primaire (CM1-CM2) pour un atelier de philosophie. Pendant trois-quarts d'heure, ils échangent autour d'une question. Le micro sert de bâton de parole.
-  summary: <audio src="https://rollauda.github.io/medias/audios/atelier1.mp3" controls loop> Unable 
-- degree: Podcast HLP 2023
-  uni: Terminale Spé HLP
+- degree: Terminale Spé HLP
+  uni: Podcast HLP 2023
   year: Mai, 2023
   award:  Discussion philosophique autour du thème de la pitié dans le cadre du cours de Terminale Spécialité HLP. Thème, Les expressions de la sensibilité.
-  summary: <audio src="https://rollauda.github.io/medias/audios/hlp-pitie.mp3.mp3" controls loop> Unable
-- degree: blablaa
-  uni: blabla
+  summary: <audio src="https://rollauda.github.io/medias/audios/hlp-pitie.mp3" controls loop> Unable
+- degree: Émission croisée Spécialités HLP et SES.
+  uni: Podcast PH.E.S.S.E.S
   year: Mai, 2023
-  award: blabla
-  summary: blabla
+  award: Émission n°1 - Qui suis-je ? (version HLP)
+  summary: <audio src="https://rollauda.github.io/medias/audios/phesses-hlp-1.mp3" controls loop> Unable
+
+  
   
