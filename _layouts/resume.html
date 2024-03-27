@@ -72,29 +72,28 @@
       {% if site.resume_section_podcasts %}
       <!-- begin Podcasts -->
       <section class="content-section">
-
         <header class="section-header">
           <h2>Podcasts</h2>
         </header>
 
-        {% for job in site.data.podcasts %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
-        </div><!-- end of resume-item -->
-        {% endfor %}
+        {% for podcasts in site.data.podcasts %}
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">{{ podcasts.uni }}</h3>
+          <h4 class="resume-item-details group" itemprop="description">{{ podcasts.degree }} &bull; {{ podcasts.year }}</h4>
+          <h5 class="resume-item-details award-title" itemprop="description">{{ podcasts.award }}</h5>
+          <p class="resume-item-copy" itemprop="description">
+            <ul class="resume-item-list">
+              {% for award in podcasts.awards %}
+              <li>{{ award.award }}</li>
+              {% endfor %}
+            </ul>
 
-      </section>
-      <!-- end Podcasts -->
-      {% endif %}
 
-
-          <p class="resume-item-copy">{{ education.summary }}</p>
+          <p class="resume-item-copy">{{ podcasts.summary }}</p>
         </div>
         {% endfor %}
       </section>
-      <!-- end Education -->
+      <!-- end Podcasts -->
       {% endif %}
 
 
