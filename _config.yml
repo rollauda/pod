@@ -1,5 +1,5 @@
 # Site settings
-title: "Podcasts Condamine"
+title: "Podcasts de philosophie"
 description: "Enregistrements sonores des classes de M. Auda."
 
 # Build settings
@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "Podcasts Condamine"
+resume_name:                    "Podcasts de philosophie"
 resume_title:                   "Enregistrements sonores des classes de M. Auda."
 
 # used for the contact button in _layouts/resume.html
