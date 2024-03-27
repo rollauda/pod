@@ -31,4 +31,6 @@
   duration:   May, 2010
   summary: <audio src="_assets/sons/atelier1.mp3" controls loop> Unable 
 
-  {% include open-embed.html %}
+  {% include embed-audio.html src="../../_assets/sons/atelier1.mp3" %}
+
+
