@@ -1,13 +1,14 @@
 # Jobs
 # Director of Digital Stratgy
 - company: Essai 1
-  position: Director of Digital Strategy
+  position: HLP
   duration:  Mai, 2023 
   summary: <audio src="/pod/blob/main/_assets/sons/atelier1.mp3" controls loop> Unable 
+  
 
   # Communications Coordinator
 - company: Essai 2
-  position: Communications Coordinator
+  position: Atelier philo
   duration:   Jun, 2023
   summary: <audio src="/rollauda/pod/_assets/sons/atelier1.mp3" controls loop> Unable 
   
@@ -16,4 +17,4 @@
 - company: Essai 3
   position: Communications Coordinator
   duration:   May, 2010
-  summary: <audio src="_assets/sons/atelier1.mp3" controls loop> Unable 
+  summary: <audio src="../../_assets/sons/atelier1.mp3" controls loop> Unable 
