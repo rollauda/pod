@@ -14,23 +14,22 @@
   
 
 # Communications Coordinator
-- company: Essai 3
+- company: Essai lien relatif 1
   position: Communications Coordinator
   duration:   May, 2010
   summary: <audio src="../../_assets/sons/atelier1.mp3" controls loop> Unable 
 
   # Communications Coordinator
-- company: Essai 3
+- company: Essai lien relatif 2
   position: Communications Coordinator
   duration:   May, 2010
   summary: <audio src="../_assets/sons/atelier1.mp3" controls loop> Unable 
 
     # pepepe
-- company: Essai 3
+- company: Essai lien externe
   position: Communications Coordinator
   duration:   May, 2010
   summary: <audio src="https://rollauda.github.io/medias/audios/atelier1.mp3" controls loop> Unable 
 
-  {% include embed-audio.html src="../../_assets/sons/atelier1.mp3" %}
 
 
