@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "false"
 resume_name:                    "Podcasts de philosophie"
-# resume_title:                   "Enregistrements sonores des classes de M. Auda."
+resume_title:                   "Enregistrements sonores des classes de M. Auda."
 
 # used for the contact button in _layouts/resume.html
 #resume_contact_email:           "max.stein.tm@gmail.com"
