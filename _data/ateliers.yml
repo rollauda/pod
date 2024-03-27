@@ -1,35 +1,10 @@
-# Jobs
-# Director of Digital Stratgy
-- company: Essai 1
-  position: HLP
-  duration:  Mai, 2023 
-  summary: <audio src="/pod/blob/main/_assets/sons/atelier1.mp3" controls loop> Unable 
-  
-
-  # Communications Coordinator
-- company: Essai 2
-  position: Atelier philo
-  duration:   Jun, 2023
-  summary: <audio src="/rollauda/pod/_assets/sons/atelier1.mp3" controls loop> Unable 
-  
-
-# Communications Coordinator
-- company: Essai lien relatif 1
-  position: Communications Coordinator
-  duration:   May, 2010
-  summary: <audio src="../../_assets/sons/atelier1.mp3" controls loop> Unable 
-
-  # Communications Coordinator
-- company: Essai lien relatif 2
-  position: Communications Coordinator
-  duration:   May, 2010
-  summary: <audio src="../_assets/sons/atelier1.mp3" controls loop> Unable 
-
-    # pepepe
-- company: Essai lien externe
-  position: Communications Coordinator
-  duration:   May, 2010
+# Ateliers
+# Atelier 1
+- company: Atelier 2023
+  position: Terminle B et CM1-CM2 d'Olivier Pie
+  duration:   Mai, 2032
   summary: <audio src="https://rollauda.github.io/medias/audios/atelier1.mp3" controls loop> Unable 
+
 
 
 

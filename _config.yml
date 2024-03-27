@@ -42,11 +42,11 @@ and eager for challenges.</p>"
 resume_section_ateliers:      true
 resume_section_education:       true
 # resume_section_projects:        true
-resume_section_skills:          true
+# resume_section_skills:          true
 # resume_section_recognition:     true
 # resume_section_links:           true
-resume_section_accomplishments: true
-resume_section_associations:    true
+# resume_section_accomplishments: true
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
