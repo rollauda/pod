@@ -1,13 +1,17 @@
 # Podcasts
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
-
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Atelier Terminale Primaire 2023
+  uni: Terminale B et CM1-CM2 d'Olivier Piy
+  year: Mai, 20238
+  awards: Chaque année, des élèves de Terminale se réunissent avec des élèves de Primaire (CM1-CM2) pour un atelier de philosophie. Pendant trois-quarts d'heure, ils échangent autour d'une question. Le micro sert de bâton de parole.
+  summary: <audio src="https://rollauda.github.io/medias/audios/atelier1.mp3" controls loop> Unable 
+- degree: Podcast HLP 2023
+  uni: Terminale Spé HLP
+  year: Mai, 2023
+  award:  Discussion philosophique autour du thème de la pitié dans le cadre du cours de Terminale Spécialité HLP. Thème, Les expressions de la sensibilité.
+  summary: <audio src="https://rollauda.github.io/medias/audios/hlp-pitie.mp3.mp3" controls loop> Unable
+- degree: blablaa
+  uni: blabla
+  year: Mai, 2023
+  award: blabla
+  summary: blabla
+  
