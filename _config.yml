@@ -40,7 +40,7 @@ and eager for challenges.</p>"
 # Decide which sections to use
 # comment out to hide
 resume_section_ateliers:      true
-resume_section_education:       true
+resume_section_podcasts:       true
 # resume_section_projects:        true
 # resume_section_skills:          true
 # resume_section_recognition:     true
