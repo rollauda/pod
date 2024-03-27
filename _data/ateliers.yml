@@ -6,10 +6,10 @@
   summary: Chaque année, des élèves de Terminale se réunissent avec des élèves de Primaire (CM1-CM2) pour un atelier de philosophie. Pendant trois-quarts d'heure, ils échangent autour d'une question. Le micro sert de bâton de parole. <br> <br> <audio src="https://rollauda.github.io/medias/audios/atelier1.mp3" controls loop> Unable 
 
 
-# Ateliers
-# Atelier 1
-- company: HLP 2023
+# Podcast HLP
+# Atelier 2
+- company: Podcast HLP 2023
   position: 
   duration:   Mai, 2023
-  summary: Discussion philosophique autour du thème de la pitié dans le cadre du cours de Terminale Spécialité HLP (thème : Les expressions de la sensibilité) <br> <br> <audio src="https://rollauda.github.io/medias/audios/hlp-pitie.mp3.mp3" controls loop> Unable
+  summary: Discussion philosophique autour du thème de la pitié dans le cadre du cours de Terminale Spécialité HLP. Thème, Les expressions de la sensibilité. <br> <br> <audio src="https://rollauda.github.io/medias/audios/hlp-pitie.mp3.mp3" controls loop> Unable
 
